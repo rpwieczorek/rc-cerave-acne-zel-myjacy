@@ -169,7 +169,7 @@ body {
       @include text;
       margin: 0 auto;
       text-align: center;
-      width: 80%;
+      width: 79%;
       font-size: 20px;
       font-weight: 300;
     }
@@ -181,7 +181,7 @@ body {
       justify-content: space-around;
     }
     &__single {
-      width: 120px;
+      width: 140px;
       text-align: center;
       transition: all 0.3s;
       &:hover {
@@ -197,7 +197,7 @@ body {
     &__desc {
       @include text;
       text-align: center;
-      font-size: 16px;
+      font-size: 14px;
     }
   }
   .es-ingriedients {
